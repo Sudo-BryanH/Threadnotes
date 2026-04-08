@@ -35,7 +35,8 @@ async def login(email:str, password:str):
     
 #     return {""}
     
-def verify_token()
+def verify_token():
+    return
 
 @app.get("/search_tags")
 async def search_by_tag(project_id:str, tag:str, token:):

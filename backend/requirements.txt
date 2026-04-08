@@ -1,3 +1,4 @@
 fastapi
 psycopg    #postgres
 pwdlib[argon2]
+jwt
